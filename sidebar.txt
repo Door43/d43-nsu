@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nsu:home|Door43 (nsu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nsu|d43-nsu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nsu/archive/master.zip|d43-nsu.zip]]
+
+**Recent Changes**
+{{changes>ns = nsu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nsu|Ethnologue data]]
+
